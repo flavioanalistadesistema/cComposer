@@ -1,5 +1,17 @@
 {
+    "name": "flavio/c-composer",
+    "description": "New project composer",
+
+    "minimum-stability": "stable",
+
     "require": {
+        "symfony/var-dumper": "^5.1",
         "phpmailer/phpmailer": "^6.1"
-    }
+    },
+    "authors": [
+        {
+            "name": "MrRobotProgrammer",
+            "email": "flavio.santos@pravaler.com.br"
+        }
+    ]
 }
